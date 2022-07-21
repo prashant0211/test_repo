@@ -2,8 +2,8 @@
 trigger:
 - master
 
-pool:
-  vmImage: DESKTOP-1U7E7S8
+pool: self-hosted
+
 
 steps:
 - script: echo Hello, world!
