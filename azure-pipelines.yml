@@ -3,7 +3,7 @@ trigger:
 - master
 
 pool:
-  vmImage: self-hosted
+  vmImage: DESKTOP-1U7E7S8
 
 steps:
 - script: echo Hello, world!
