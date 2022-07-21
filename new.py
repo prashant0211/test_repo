@@ -1,2 +1,4 @@
 print("new file")
-print("issue resolved")
+print ("hi")
+print ("hi")
+print ("hi")
